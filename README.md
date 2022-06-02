@@ -1,16 +1,14 @@
-- <h1 align="center">Hi 👋, I'm SUMIT SAHA</h1>
-<h3 align="center">Data Science Student</h3>
+<h1 align="center">Hi 👋, I'm SUMIT SAHA</h1>
+<h3 align="center">DATA SCIENCE STUDENT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-saha12&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-saha12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit-saha12" alt="sumit-saha12" /></a> </p>
 
-- 💬 Ask me about **C, Mysql, Python**
-
-- 📫 How to reach me **sumit.saha12072000@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/sumit-saha-b04024213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-saha-b04024213" height="30" width="40" /></a>
+<a href="https://fb.com/sumit.12.saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumit.12.saha" height="30" width="40" /></a>
 <a href="https://instagram.com/sumit_saha9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumit_saha9" height="30" width="40" /></a>
 </p>
 
