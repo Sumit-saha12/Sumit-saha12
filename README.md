@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SUMIT SAHA</h1>
-<h3 align="center">DATA SCIENCE || WEB DEVELOPER</h3>
+<h3 align="center">DATA SCIENCE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-saha12&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-saha12" /> </p>
 
